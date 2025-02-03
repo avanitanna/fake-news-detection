@@ -1,0 +1,6 @@
+*.zip
+*.npy
+*.npz
+.pt
+raavi_data/
+*.pickle

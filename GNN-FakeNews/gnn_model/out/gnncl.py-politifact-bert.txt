@@ -1,0 +1,1 @@
+Test set results: acc: 0.7014, f1_macro: 0.6990, f1_micro: 0.7014, precision: 0.7388, recall: 0.6449, auc: 0.7838, ap: 0.7567, test_loss: 480.6588
